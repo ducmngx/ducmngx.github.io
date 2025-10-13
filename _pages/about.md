@@ -31,5 +31,7 @@ I'm always open to collaborations, research discussions, and new opportunities. 
 **Research:** My research focuses on enabling safe and intelligent robot behavior through advances in machine learning, task and motion planning, and autonomous systems.
 
 ***1. Robot Learning and Planning.*** I develop learning-based approaches that enable robots to navigate and manipulate safely in complex, dynamic environments. My work spans deep learning for hierarchical control, large-scale simulation for policy training, and classical planning algorithms for collision avoidance and motion optimization.
+
 ***2. Safe Autonomy and Human-Robot Interaction.*** I work on creating robots that can safely operate alongside people by modeling human behavior, predicting potential failures, and designing uncertainty-aware control systems. This includes large-scale dataset curation for social navigation and developing collaborative manipulation frameworks.
+
 ***3. Simulation Infrastructure for Robot Learning.*** I build scalable simulation environments and training infrastructure that accelerate robotics research, including GPU-accelerated systems supporting thousands of parallel environments and automated pipelines for realistic environment generation.
