@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Duc (Aaron) M. Nguyen, a fourth-year PhD student in Computer Science at George Mason University, advised by Dr. Xuesu Xiao. I hold a B.S. in Computer Science from Miami University with a minor in Statistics.
+I am Duc (Aaron) M. Nguyen, a fourth-year PhD student in Computer Science at [George Mason University](https://cs.gmu.edu/), advised by [Dr. Xuesu Xiao](https://cs.gmu.edu/~xiao/). I hold a B.S. in Computer Science from [Miami University](https://miamioh.edu/cec/departments/computer-science-software-engineering/index.html) with a minor in [Statistics](https://miamioh.edu/cas/departments/statistics/).
+
+
 
 I'm always open to collaborations, research discussions, and new opportunities. Feel free to reach out if you're interested in my work or would like to explore potential projects together.
 
@@ -34,4 +36,4 @@ I'm always open to collaborations, research discussions, and new opportunities. 
 
 ***2. Safe Autonomy and Human-Robot Interaction.*** I work on creating robots that can safely operate alongside people by modeling human behavior, predicting potential failures, and designing uncertainty-aware control systems. This includes large-scale dataset curation for social navigation and developing collaborative manipulation frameworks.
 
-***3. Simulation Infrastructure for Robot Learning.*** I build scalable simulation environments and training infrastructure that accelerate robotics research, including GPU-accelerated systems supporting thousands of parallel environments and automated pipelines for realistic environment generation.
+***3. Data Pipeline for Robot Learning.*** I want to build scalable simulation environments and training infrastructure that accelerate robotics research, including GPU-accelerated systems supporting parallel environments and automated pipelines for realistic environment generation.
