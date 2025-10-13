@@ -132,14 +132,14 @@
       "name": "Responsive Regulation of Dynamic UAV Communication Networks Based on Deep Reinforcement Learning",
       "publisher": "Broadband Communications, Computing, and Control for Ubiquitous Intelligence. Wireless Networks. Springer",
       "releaseDate": "2022",
-      "url": "",
+      "url": "https://arxiv.org/pdf/2108.11012",
       "summary": "Applied deep reinforcement learning to optimize communication network regulation for UAV swarms under dynamic conditions and communication constraints. Co-authored with R. Zhang, M. Wang, L. X. Cai, and X. Shen, resulting in Springer book chapter."
     },
     {
       "name": "Mapping the Complexity of Suicide by Combining Participatory Modeling and Network Science",
       "publisher": "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining",
       "releaseDate": "2021",
-      "url": "https://cs.gmu.edu/~xiao/papers/musohu.pdf",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37216196/",
       "summary": "Applied network science and machine learning to map relationships between suicide-related concepts, achieving 90% classification accuracy. Developed interactive visualization tools for exploring causal relationships in behavioral data. Co-authored with Phillipe J. Giabbanelli and collaborators."
     }
   ],
