@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ducmnguyen.github.io/sitemap.xml
+Sitemap: https://ducmngx.github.io/sitemap.xml
