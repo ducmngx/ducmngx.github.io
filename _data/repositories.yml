@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ducmngx
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
+  - RobotiXX/MuSoHu-data-collection
+  - RobotiXX/Fetch-Controller-API
+  - ducmngx/linkedin-post-filter
+  - ducmngx/DDPG-UAV-Efficiency 
   - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ducmngx/bayesian-email-filter
+  - BreadDisease/448-SELF-DRIVE
