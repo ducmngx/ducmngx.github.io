@@ -23,7 +23,7 @@
       "url": "https://www.gmu.edu/",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2022-08",
+      "startDate": "2022-08"
     },
     {
       "institution": "Miami University, Oxford, OH, USA",
@@ -32,7 +32,7 @@
       "area": "Computer Science",
       "studyType": "B.Sc.",
       "startDate": "2018-08",
-      "endDate": "2022-05",
+      "endDate": "2022-05"
     }
   ],
   "work": [
@@ -100,7 +100,7 @@
       "url": "https://gdg.community.dev/gdg-on-campus-george-mason-university-fairfax-united-states/",
       "startDate": "2024-10",
       "endDate": "2025-08",
-      "summary": "Lead organizer and moderator for university seminars and annual Google Developer Group events at George Mason University, conducting live interviews and leading hands-on workshops on Google Cloud and applied machine learning tools.",
+      "summary": "Lead organizer and moderator for university seminars and annual Google Developer Group events at George Mason University, conducting live interviews and leading hands-on workshops on Google Cloud and applied machine learning tools."
     }
   ],
   "awards": [
@@ -223,7 +223,7 @@
         "Implementing compact diffusion model with contrastive learning objectives on 10M word tracks",
         "Comparing performance against baseline autoregressive and standard diffusion models",
         "Applying energy-based modeling to resolve failures of standard diffusion models in capturing global sentence coherence"
-      ],
+      ]
     },
     {
       "name": "LinkedIn Job Posts Tracking",
@@ -233,7 +233,7 @@
         "Designed S.T.A.R schema database to store over 1000 job postings using MySQL and Python",
         "Extracted job details and requirements using regular expressions and Named Entity Recognition (NER)",
         "Delivered personalized job recommendations by aligning users' resumes with job postings"
-      ],
+      ]
     }
   ]
 }
