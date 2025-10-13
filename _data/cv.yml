@@ -13,7 +13,7 @@
       institution: George Mason University, Fairfax, VA, USA
       year: 2022-2027
       description:
-        - Research in robotics, reinforcement learning, and autonomous systems
+        - Research in robot planning, machine learning, and autonomous systems
         - Advised by Professor <a href="https://cs.gmu.edu/~xiao/">Xuesu Xiao</a>
     - title: M.S. in Computer Science
       institution: George Mason University, Fairfax, VA, USA
@@ -42,6 +42,7 @@
         - Led team adoption of NVIDIA Isaac Sim/Lab, building GPU-accelerated RL training infrastructure supporting 10,000+ parallel environments
         - Designed bilevel hierarchical control architecture trained using deep reinforcement learning (PPO) in PyTorch
         - Enabled Matterport3D indoor environments in Isaac Sim
+        - Advised by Professor <a href="https://eehpc.ece.jhu.edu/tinoosh-mohsenin/">Tinoosh Mohsenin</a>
     - title: Technical Lead
       institution: Google Developer Group at George Mason University
       year: 2024-2025
@@ -54,6 +55,8 @@
       description:
         - Designed multi-agent deep reinforcement learning framework for cooperative UAV control, resulting in Springer book chapter
         - Built machine learning models achieving 90% accuracy for behavioral data classification
+        - Advised by Professor <a href="https://sites.google.com/view/welcome-to-ran-zhangs-homepage/home">Ran Zhang</a> and Professor <a href="https://giabbanelli.com/author/philippe-j.-giabbanelli/">Philippe J. Giabbanelli</a>
+
 
 - title: Honors and Awards
   type: time_table
