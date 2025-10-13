@@ -28,7 +28,7 @@
     {
       "institution": "Miami University, Oxford, OH, USA",
       "location": "Oxford, OH, USA",
-      "url": "https://www.gmu.edu/",
+      "url": "https://miamioh.edu/",
       "area": "Computer Science",
       "studyType": "B.Sc.",
       "startDate": "2018-08",
@@ -38,8 +38,8 @@
   "work": [
     {
       "name": "RobotiXX Lab, George Mason University",
-      "position": "Research Assistant",
-      "url": "https://example.com",
+      "position": "Graduate Research Assistant",
+      "url": "https://robotixx.cs.gmu.edu/",
       "startDate": "2022-08",
       "endDate": "",
       "summary": "Conducting research in robotics, motion planning, and machine learning for autonomous systems.",
@@ -64,19 +64,6 @@
         "Enabled Matterport3D indoor environments in Isaac Sim by developing automated mesh processing and lighting injection pipeline to convert incompatible simulation platform assets",
         "Implemented multi-sensor suite (LiDAR, IMU, RGB camera) matching physical robot specifications and designed observation spaces and reward structures for neural network policy training",
         "Set up AprilTag localization system throughout lab to enable vision-based odometry correction for mobile robots"
-      ]
-    },
-    {
-      "name": "Google Developer Group at George Mason University",
-      "position": "Technical Lead",
-      "url": "https://gdg.community.dev/",
-      "startDate": "2024-10",
-      "endDate": "2025-08",
-      "summary": "Led technical workshops and organized developer community events focused on Google Cloud and machine learning technologies.",
-      "highlights": [
-        "Organized and moderated a university seminar featuring a Google engineer, conducting a live interview",
-        "Planned and coordinated annual Google Developer Group events at George Mason University",
-        "Led hands-on workshops and student projects introducing Google Cloud technologies and applied machine learning tools"
       ]
     },
     {
@@ -105,13 +92,20 @@
   ],
   "awards": [
     {
+      "title": "Finalist for Best Paper Award",
+      "date": "2023",
+      "awarder": "AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI)",
+      "url": "https://ai-hri.github.io/2023/",
+      "summary": "Recognized as a finalist for best paper at the AAAI Fall Symposium on AI-HRI, highlighting exceptional research contributions in human-robot interaction."
+    },
+    {
       "title": "VEF 2.0 Fellowship",
-      "date": "2022-01",
+      "date": "2021-2022",
       "awarder": "VEF 2.0 Program",
       "url": "https://vef2.org/",
       "summary": "VEF 2.0 Program: Supports talented Vietnamese students in graduate studies at top U.S. universities and promotes U.S.–Vietnam educational exchange."
     }
-  ],
+  ]
   "publications": [
     {
       "name": "Anticipatory Task and Motion Planning",
