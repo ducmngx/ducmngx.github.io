@@ -2,7 +2,7 @@
   "About me": {
     "name": "Duc M. Nguyen",
     "language": "English, Vietnamese",
-    "label": "Scientist",
+    "label": "Ph.D. Student",
     "image": "",
     "email": "mnguy21@gmu.edu",
     "phone": "(912) 123-4567",
@@ -10,9 +10,9 @@
     "summary": "Vietnamese-born AI researcher applying machine learning to real-world physical systems.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X",
+        "username": "@ducmngx",
+        "url": "https://x.com/ducmngx"
       }
     ]
   },
