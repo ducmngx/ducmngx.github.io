@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Duc (Aaron) M. Nguyen, a fourth-year PhD student in Computer Science at George Mason University, advised by Dr. Xuesu Xiao. I hold a B.S. in Computer Science from Miami University with a minor in Statistics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm always open to collaborations, research discussions, and new opportunities. Feel free to reach out if you're interested in my work or would like to explore potential projects together.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research:** My research focuses on enabling safe and intelligent robot behavior through advances in machine learning, task and motion planning, and autonomous systems.
+
+***1. Robot Learning and Planning.*** I develop learning-based approaches that enable robots to navigate and manipulate safely in complex, dynamic environments. My work spans deep learning for hierarchical control, large-scale simulation for policy training, and classical planning algorithms for collision avoidance and motion optimization.
+***2. Safe Autonomy and Human-Robot Interaction.*** I work on creating robots that can safely operate alongside people by modeling human behavior, predicting potential failures, and designing uncertainty-aware control systems. This includes large-scale dataset curation for social navigation and developing collaborative manipulation frameworks.
+***3. Simulation Infrastructure for Robot Learning.*** I build scalable simulation environments and training infrastructure that accelerate robotics research, including GPU-accelerated systems supporting thousands of parallel environments and automated pipelines for realistic environment generation.
