@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multi-Modal Social Human Navigation Dataset (MuSoHu)
+title: MuSoHu data collection
 description: 
 img: assets/img/media/musohu.png
 redirect: https://cs.gmu.edu/~xiao/Research/MuSoHu/
