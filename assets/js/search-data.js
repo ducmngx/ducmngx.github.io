@@ -457,6 +457,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-multi-modal-social-human-navigation-dataset-musohu",
+          title: 'Multi-Modal Social Human Navigation Dataset (MuSoHu)',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/musohu/";
             },},{
         id: 'social-email',
         title: 'email',
