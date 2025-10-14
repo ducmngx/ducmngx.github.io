@@ -412,8 +412,8 @@ ninja.data = [{
             },},{id: "news-i-started-working-on-reinforcement-learning-for-robot-navigation-and-locomotion-at-johns-hopkins-institute-for-assured-autonomy-under-dr-tinoosh-mohsenin",
           title: 'I started working on Reinforcement Learning for robot navigation and locomotion at Johns...',
           description: "",
-          section: "News",},{id: "projects-multi-modal-social-human-navigation-dataset-musohu",
-          title: 'Multi-Modal Social Human Navigation Dataset (MuSoHu)',
+          section: "News",},{id: "projects-musohu-data-collection",
+          title: 'MuSoHu data collection',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/musohu/";
