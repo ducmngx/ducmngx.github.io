@@ -100,7 +100,7 @@ ninja.data = [{
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/ducmngx", "_blank");
+          window.open("https://twitter.com/off_policy", "_blank");
         },
       },{
         id: 'social-youtube',
