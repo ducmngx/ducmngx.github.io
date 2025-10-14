@@ -412,7 +412,12 @@ ninja.data = [{
             },},{id: "news-i-started-working-on-reinforcement-learning-for-robot-navigation-and-locomotion-at-johns-hopkins-institute-for-assured-autonomy-under-dr-tinoosh-mohsenin",
           title: 'I started working on Reinforcement Learning for robot navigation and locomotion at Johns...',
           description: "",
-          section: "News",},{id: "projects-musohu-data-collection",
+          section: "News",},{id: "news-my-discussion-with-a-google-engineer-about-the-tech-market-in-august-is-on-youtube",
+          title: 'My discussion with a Google engineer about the tech market in August is...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
+            },},{id: "projects-musohu-data-collection",
           title: 'MuSoHu data collection',
           description: "",
           section: "Projects",handler: () => {
