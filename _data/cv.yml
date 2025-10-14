@@ -30,7 +30,7 @@
   contents:
     - title: Research Assistant
       institution: RobotiXX Lab, George Mason University
-      year: 2022-Now
+      year: 2022-Present
       description:
         - Building neural network-based contact prediction system for failure-aware motion planning
         - Developed ROS-based autonomous navigation and manipulation system for mobile manipulators (Fetch, Spot)
