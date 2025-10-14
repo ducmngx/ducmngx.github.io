@@ -412,16 +412,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-began-my-ph-d-journey-at-the-robotixx-lab-under-the-supervision-of-dr-xuesu-xiao",
+          title: 'Began my Ph.D. journey at the RobotiXX Lab under the supervision of Dr....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-musohu-dataset-is-available-on-gmu-dataverse",
+          title: 'MuSoHu dataset is available on GMU Dataverse.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-started-working-on-reinforcement-learning-for-robot-navigation-and-locomotion-at-johns-hopkins-institute-for-assured-autonomy-under-dr-tinoosh-mohsenin",
+          title: 'I started working on Reinforcement Learning for robot navigation and locomotion at Johns...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
