@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-06-12
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I started working on Reinforcement Learning for robot navigation and locomotion at Johns Hopkins Institute for Assured Autonomy, under [Dr. Tinoosh Mohsenin](https://eehpc.ece.jhu.edu/tinoosh-mohsenin-bio-students/).
+
