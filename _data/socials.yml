@@ -13,7 +13,7 @@
 email: mnguy21@gmu.edu # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: ducmngx# your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -24,7 +24,7 @@ email: mnguy21@gmu.edu # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: mducnguyen # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -46,7 +46,7 @@ scholar_userid: 7U1cbW0AAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
+# work_url: https://robotixx.cs.gmu.edu/ # work page URL
 x_username: off_policy # your X handle
 youtube_id: off-policy # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
