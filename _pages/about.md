@@ -22,6 +22,8 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+selected_papers: true  # THIS LINE - add if missing or set to true
 ---
 
 I am Duc (Aaron) M. Nguyen, a fourth-year PhD student in Computer Science at [George Mason University](https://cs.gmu.edu/), advised by [Dr. Xuesu Xiao](https://cs.gmu.edu/~xiao/). I hold a B.S. in Computer Science from [Miami University](https://miamioh.edu/cec/departments/computer-science-software-engineering/index.html) with a minor in [Statistics](https://miamioh.edu/cas/departments/statistics/).
